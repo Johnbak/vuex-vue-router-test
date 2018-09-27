@@ -3,13 +3,16 @@
   <nav class="navbar navbar-light bg-light">
     <ul class="nav">
       <li class="nav-item">
-             <router-link to="/" class="nav-link active">Home</router-link> 
+             <router-link to="/" class="nav-link active">Home</router-link>
       </li>
       <li class="nav-item">
             <router-link to="/about" class="nav-link active">About</router-link>
       </li>
       <li class="nav-item">
             <router-link to="/shop" class="nav-link active">Shop</router-link>
+      </li>
+      <li class="nav-item">
+            <router-link to="/starwar" class="nav-link active">Starwar</router-link>
       </li>
     </ul>
    </nav>
